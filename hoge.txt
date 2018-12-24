@@ -2,4 +2,4 @@ hogehoge
 
 new hogehoge
 new new
-testing
+new testing
